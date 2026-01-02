@@ -1,2 +1,4 @@
 # prachi_profile
-this is my profile + resume
+this is my portfolio + resume
+Author - Prachi Patil
+
